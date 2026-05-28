@@ -1,9 +1,9 @@
 # About AudioWorm & Features
----
+
 *AudioWorm* is a music player designed for convenient offline listening of music directly from the user's computer. The music player features a simple and intuitive interface in a skeuomorphic style. The program is also highly configurable and customizable. It supports plugins and user themes, but only 2 themes are available by default: white (WhiteTechno) and dark (BlackDream). Which theme is applied depends on the GTK theme. The program is written entirely in C using GTK+, and uses CSS technology for its unique interface. It supports almost all possible music formats, even the oldest ones. The program includes a convenient equalizer, numerous playlist coordination modes, and more. For convenience, there is a built-in file manager through which music can also be opened. When loading music with tags, all tags will be displayed. You can enable the song title to be shown in the program's window title, and this can be adjusted as desired. Drag-and-drop technology is also present, allowing you to drag a music file into the program to add it to the playlist.
 
 # How to Install
----
+
 To install from GitHub on Debian, go to Releases, select the latest release, and download the installation .deb file from there.
 
 You can also compile the program. To do this, run the following in your Linux terminal:
