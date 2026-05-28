@@ -7,13 +7,13 @@
 To install from GitHub on Debian, go to Releases, select the latest release, and download the installation .deb file from there.
 
 You can also compile the program. To do this, run the following in your Linux terminal:
-\```
+```
 git clone https://github.com/SirAsus/audioworm
-\```
+```
 Then navigate to the project directory and run:
-\```
+```
 doas/sudo make install
-\```
+```
 You also need to install the following dependencies:
   - GCC (with C11 support)
   - GTK+ 3.0 development files
@@ -28,7 +28,7 @@ For more details, see [Information](https://github.com/SirAsus/audioworm/text/pl
 You can also create your own themes in AudioWorm. This is much easier than plugins because you only need to know CSS to create a theme.
 
 Archive structure of a theme:
-\```
+```
 mytheme.zip
 ├── theme.css
 └── icons/ (optional)
@@ -44,7 +44,7 @@ mytheme.zip
 ├── muteon.png
 ├── muteoff.png
 └── music.png
-\```
+```
 
 # Contact & Support
 The AudioWorm program was created entirely by SirAsus alone. Any support from you is very important to the author.
