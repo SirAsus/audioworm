@@ -23,7 +23,7 @@ You also need to install the following dependencies:
 
 # How to Create Your Own Theme & Plugin?
 Audioworm is the most customizable music player. Audioworm plugins are shared libraries (.so files) written in C. They are loaded when the program starts from the ~/.audioworm/plugins/ directory or manually via the View -> Add Plugin... menu. Plugins can radically change the program, but they can also contain malicious software, since a plugin is a full C program. *Be careful.*
-For more details, see [Information](https://github.com/SirAsus/audioworm/text/plugin.md)
+For more details, see [Information](https://github.com/SirAsus/audioworm/blob/main/text/plugin.md)
 
 You can also create your own themes in AudioWorm. This is much easier than plugins because you only need to know CSS to create a theme.
 
